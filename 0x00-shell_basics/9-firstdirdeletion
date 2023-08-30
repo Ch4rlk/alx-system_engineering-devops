@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp/my_first_directory01~
+rm -r /tmp/my_first_directory
